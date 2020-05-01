@@ -1,0 +1,17 @@
+#MainLayout ul.navbar a:hover {
+    color: green;
+}
+
+#MainLayout ul.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+#MainLayout ul.navbar li {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid black;
+}
